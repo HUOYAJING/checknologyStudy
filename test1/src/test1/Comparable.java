@@ -8,7 +8,6 @@ package test1;
  * To change this template use File | Settings | File Templates.
  */
 public class Comparable {
-//哈哈
 
 //第二次提交
 
